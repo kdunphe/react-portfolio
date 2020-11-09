@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ac57652b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.642eb9f4.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.642eb9f4.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.fb6666ba.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fb6666ba.js.map",
+    "static/js/2.07abe544.chunk.js": "/react-portfolio/static/js/2.07abe544.chunk.js",
+    "static/js/2.07abe544.chunk.js.map": "/react-portfolio/static/js/2.07abe544.chunk.js.map",
+    "static/js/3.02413f2e.chunk.js": "/react-portfolio/static/js/3.02413f2e.chunk.js",
+    "static/js/3.02413f2e.chunk.js.map": "/react-portfolio/static/js/3.02413f2e.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.ac57652b.chunk.css.map": "/react-portfolio/static/css/main.ac57652b.chunk.css.map",
+    "static/js/2.07abe544.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.07abe544.chunk.js.LICENSE.txt",
+    "static/media/adventure-buddies.24a98ae9.png": "/react-portfolio/static/media/adventure-buddies.24a98ae9.png",
+    "static/media/codequiz.0d05fe73.png": "/react-portfolio/static/media/codequiz.0d05fe73.png",
+    "static/media/kayla.2f4dcf81.png": "/react-portfolio/static/media/kayla.2f4dcf81.png",
+    "static/media/passwordgenerator.2c0f9fbb.png": "/react-portfolio/static/media/passwordgenerator.2c0f9fbb.png",
+    "static/media/portfolio.88213c8e.png": "/react-portfolio/static/media/portfolio.88213c8e.png",
+    "static/media/quarntitles.cf3cdd41.png": "/react-portfolio/static/media/quarntitles.cf3cdd41.png",
+    "static/media/resume.86947588.pdf": "/react-portfolio/static/media/resume.86947588.pdf",
+    "static/media/workdayscheduler.983ef6cf.png": "/react-portfolio/static/media/workdayscheduler.983ef6cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb6666ba.js",
+    "static/js/2.07abe544.chunk.js",
+    "static/css/main.ac57652b.chunk.css",
+    "static/js/main.642eb9f4.chunk.js"
+  ]
+}
