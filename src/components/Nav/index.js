@@ -13,7 +13,7 @@ function Nav() {
             </div>
             <div class="menu">
                 <ul>
-                    <li><a href="/portfolio">Portfolio</a></li>
+                    <li><a href="/react-portfolio/portfolio">Portfolio</a></li>
                     <li><a href={resume} target="_blank">Experience</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
