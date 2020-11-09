@@ -9,13 +9,13 @@ function Nav() {
                 <i class="fas fa-bars"></i>
             </div>
             <div class="logo">
-                <a href="/">Kayla Dunphe</a>
+                <a href="/react-portfolio">Kayla Dunphe</a>
             </div>
             <div class="menu">
                 <ul>
-                    <li><a href="/portfolio">Portfolio</a></li>
+                    <li><a href="/react-portfolio/portfolio">Portfolio</a></li>
                     <li><a href={resume} target="_blank">Experience</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/react-portfolio/contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
