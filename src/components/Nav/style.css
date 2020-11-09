@@ -1,10 +1,7 @@
-/* BODY */
-body {
+/* body {
     font-family: 'Poppins', sans-serif;
 }
 
-
-/* NAVIGATION */
 .logo {
     position: fixed;
     float: left;
@@ -69,9 +66,8 @@ body {
   }
 
 
-  /* MEDIA QUERIES */
+
 @media(max-width: 580px) {
-    /* Navigation Styles */
     .logo {
       position: fixed;
       top: 0;
@@ -104,4 +100,4 @@ body {
     .menu-icon {
       display: block;
     }
-}
+} */
