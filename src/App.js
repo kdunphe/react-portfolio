@@ -14,8 +14,8 @@ function App() {
         <Nav />
         <Switch>
         <Route exact path="/react-portfolio" component={Home} />
-        <Route exact path="/react-portfolio/portfolio" component={Portfolio} />
-        <Route exact path="/contact" component={Contact} />
+        <Route path="/react-portfolio/portfolio" component={Portfolio} />
+        <Route path="/react-portfolio/contact" component={Contact} />
         </Switch>
         <Footer />
       </div>

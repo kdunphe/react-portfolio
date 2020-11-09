@@ -15,7 +15,7 @@ function Nav() {
                 <ul>
                     <li><a href="/react-portfolio/portfolio">Portfolio</a></li>
                     <li><a href={resume} target="_blank">Experience</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/react-portfolio/contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
