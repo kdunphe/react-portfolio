@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import resume from "../../assets/resume.pdf";
 
 function Nav() {
     return (
@@ -8,13 +9,13 @@ function Nav() {
                 <i class="fas fa-bars"></i>
             </div>
             <div class="logo">
-                <a href="index.html">Kayla Dunphe</a>
+                <a href="/">Kayla Dunphe</a>
             </div>
             <div class="menu">
                 <ul>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="./assets/resume.pdf">Experience</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="/portfolio">Portfolio</a></li>
+                    <li><a href={resume} target="_blank">Experience</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
         </nav>
