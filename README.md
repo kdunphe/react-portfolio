@@ -4,7 +4,7 @@
 
 <h2>Overview</h2>
 
-**Deployed Site:** https://kdunphe.github.io/web-development-portfolio/
+**Deployed Site:** https://kdunphe.github.io/react-portfolio/
 
 **Technologies Used:** React, HTML, CSS, JavaScript, jQuery, Bootstrap, Flex Box
 
