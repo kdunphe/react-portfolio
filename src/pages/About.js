@@ -2,7 +2,7 @@ import React from "react";
 import { Container } from "../components/Grid";
 import About from "../components/About";
 
-const About = () => {
+const Home = () => {
     return (
         <Container fluid>
             <About />
@@ -10,4 +10,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Home;

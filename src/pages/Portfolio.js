@@ -1,11 +1,11 @@
 import React from "react";
 import { Container } from "../components/Grid";
-import Portfolio from "../components/Portfolio";
+import Projects from "../components/Projects";
 
 const Portfolio = () => {
     return (
         <Container fluid>
-            <Portfolio />
+            <Projects />
         </Container>
     );
 };

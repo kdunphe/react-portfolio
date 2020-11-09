@@ -1,11 +1,11 @@
 import React from "react";
 import { Container } from "../components/Grid";
-import Contact from "../components/Contact";
+import ContactMe from "../components/ContactMe";
 
 const Contact = () => {
     return (
         <Container fluid>
-            <Contact />
+            <ContactMe />
         </Container>
     );
 };

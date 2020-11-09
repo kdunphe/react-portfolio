@@ -7,7 +7,7 @@ import FirstPortfolio from "../../assets/portfolio.png";
 import PasswordGenerator from "../../assets/passwordgenerator.png";
 import WorkdayScheduler from "../../assets/workdayscheduler.png";
 
-function Portfolio() {
+function Projects() {
     return (
         <main id="portfolio">
             <div class="container">
@@ -74,4 +74,4 @@ function Portfolio() {
     );
 }
 
-export default Portfolio;
+export default Projects;
