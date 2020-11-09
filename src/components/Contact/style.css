@@ -1,0 +1,11 @@
+/* BODY */
+body {
+    background: lightgrey;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: lightseagreen;
+    font-weight: bold;
+    font-size: 30px;
+}
